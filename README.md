@@ -51,7 +51,19 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 
 
 ## ขั้นตอนการทำ Project
+```bash
+Data Cleaning -> EDA -> Feature Engineering -> Modeling -> Evaluation
+```
+
 ### Data Cleaning
+
+### EDA
+
+### Feature Engineering
+
+### Modeling
+
+### Evaluation
 
 
 1.  **Problem Statement**: ปัญหาคืออะไร ทำไมต้องแก้ Yes
