@@ -50,7 +50,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 ผู้ใช้เพศชายที่ใช้งาน 2625 คนและที่ยกเลิกการใช้งาน 930 คน
 
 
-## ขั้นตอนการทำ
+## ขั้นตอนการทำ Project
 ### Data Cleaning
 
 
