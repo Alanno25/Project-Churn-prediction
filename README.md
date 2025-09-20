@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 จำนวน 7043 แถวและ 21 หัวข้อ
 
 
-
+---
 
 
 ข้อมูลจำนวนผู้ใช้งานและยกเลิกการใช้งาน
