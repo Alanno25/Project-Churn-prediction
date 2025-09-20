@@ -27,7 +27,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 ---
 
 
-ข้อมูลจำนวนผู้ใช้งานและยกเลิกการใช้งาน
+ข้อมูลจำนวนผู้ใช้งาน 5174 คนและผู้ที่ยกเลิกการใช้งาน 1869 คน
 
 
 
