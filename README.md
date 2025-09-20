@@ -27,13 +27,15 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 ---
 
 
-ข้อมูลจำนวนผู้ใช้งาน 5174 คนและผู้ที่ยกเลิกการใช้งาน 1869 คน
+ข้อมูลจำนวนผู้ใช้งานและผู้ที่ยกเลิกการใช้งาน 
 
 
 
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/1fac95ac28ec08449f2f3bed959e1d1cefac1c84/Chrun%20count.png)
 
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/81e72e28438e5c3da668f4c2f5584ca384d5c59e/Distribution%20of%20Churn.png)
+
+ผู้ใช้งาน 5174 คนและผู้ที่ยกเลิกการใช้งาน 1869 คน
 
 ---
 โดยมีสัดส่วนของผู้ใช้เพศชาย-หญิงดังต่อไปนี้
