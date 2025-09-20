@@ -37,7 +37,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 
 โดยมีสัดส่วนของผู้ใช้เพศชาย-หญิงดังนี้
 
-![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/81e72e28438e5c3da668f4c2f5584ca384d5c59e/Distribution%20of%20Churn.png)
+![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/eb4245063a69919cf31d6af0c33832689dc0f10d/gender%20churn%20count.png)
 
 
 
