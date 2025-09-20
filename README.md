@@ -50,9 +50,13 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 ผู้ใช้เพศชายที่ใช้งาน 2625 คนและที่ยกเลิกการใช้งาน 930 คน
 
 
-1.  **Problem Statement**: ปัญหาคืออะไร ทำไมต้องแก้
+## ขั้นตอนการทำ
+### Data Cleaning
 
-2.  **Dataset**: ข้อมูลมาจากไหน มีหน้าตาเป็นอย่างไร
+
+1.  **Problem Statement**: ปัญหาคืออะไร ทำไมต้องแก้ Yes
+
+2.  **Dataset**: ข้อมูลมาจากไหน มีหน้าตาเป็นอย่างไร Yes
 
 3.  **Methodology**: อธิบายขั้นตอนที่คุณทำแบบสรุป (เช่น Data Cleaning -> EDA -> Feature Engineering -> Modeling -> Evaluation)
 
