@@ -46,6 +46,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/eb4245063a69919cf31d6af0c33832689dc0f10d/gender%20churn%20count.png)
 
 ผู้ใช้เพศหญิงที่ใช้งาน 2549 คนและที่ยกเลิกการใช้งาน 939 คน
+
 ผู้ใช้เพศชายที่ใช้งาน 2625 คนและที่ยกเลิกการใช้งาน 930 คน
 
 
