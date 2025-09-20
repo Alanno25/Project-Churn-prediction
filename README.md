@@ -19,6 +19,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 ```
 
 โดยเป็นข้อมูลของผู้ใช้บริการที่ถูกบันทึกไว้โดยมีแบบยังใช้งานบริการอยู่ และ เลิกใช้บริการไปแล้ว
+
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/074ef43258df20e7e90c11149ba40d2c4bc2a9d1/dataset%20churn.png)
 จำนวน 7043 แถวและ 21 หัวข้อ
 
@@ -27,6 +28,8 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 ข้อมูลจำนวนผู้ใช้งานและยกเลิกการใช้งาน
 
 
+
+![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/1fac95ac28ec08449f2f3bed959e1d1cefac1c84/Chrun%20count.png)
 
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/1fac95ac28ec08449f2f3bed959e1d1cefac1c84/Chrun%20count.png)
 1.  **Problem Statement**: ปัญหาคืออะไร ทำไมต้องแก้
