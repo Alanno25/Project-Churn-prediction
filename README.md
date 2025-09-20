@@ -4,8 +4,10 @@
 
 เป็นโปรเจคที่เขียนด้วย Python และใช้โมเดล Machine learning ในการหาคำตอบว่าปัจจัยใดที่ผลต่อการเลิกใช้งานของผู้ใช้และสามารถต่อยอดวิธีแก้ไขสำหรับลดปัญหาการเลิกใช้บริการของผู้ใช้ต่อผู้ให้บริการเครื่อข่ายมือถือ
 
-## ขั้นตอนการติดตั้ง Python และ Library
-
+## ติดตั้ง Library
+```bash
+pip install pandas scikit-learn matplotlib seaborn numpy kagglehub imbalanced-learn xgboost
+```
 ## Dataset
 
 ข้อมูลที่นำมาใช้
@@ -17,8 +19,8 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 ```
 
 โดยเป็นข้อมูลของผู้ใช้บริการที่ถูกบันทึกไว้โดยมีแบบยังใช้งานบริการอยู่ และ เลิกใช้บริการไปแล้ว
-
-  
+![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/074ef43258df20e7e90c11149ba40d2c4bc2a9d1/dataset%20churn.png)
+จำนวน 7043 แถว 21 หัวข้อ
 
 1.  **Problem Statement**: ปัญหาคืออะไร ทำไมต้องแก้
 
@@ -33,4 +35,4 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 6. **How to Run**: ขั้นตอนการรันโปรเจกต์ของคุณ
 
 
-![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/074ef43258df20e7e90c11149ba40d2c4bc2a9d1/dataset%20churn.png)
+
