@@ -62,7 +62,8 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 * Churn การเลิกใช้บริการ
 
 ## Key Features & Insights
-
+จากการวิเคราะห์ พบปัจจัยสำคัญหลายประการที่สัมพันธ์กับ อัตราการเลิกใช้บริการ (Churn Rate) ที่สูง ในกลุ่มลูกค้า:
+    * ระยะเวลาการใช้บริการและประเภทสัญญา:
 พบว่าลูกค้าที่มีระยะเวลาที่ใช้บริการสั้นๆ และ มีประเภทสัญญาแบบรายเดือนนั้น มีอัตราการ Churn ที่สูงกว่าการใช้บริการที่ระยะยาว และ ประเภทสัญญาแบบรายปี
 
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/2971766ce4764ddf2bfda496f038f5328d999437/tenure%20churn.png)
