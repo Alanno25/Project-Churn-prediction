@@ -63,34 +63,34 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 
 ## Key Features & Insights
 จากการวิเคราะห์ พบปัจจัยสำคัญหลายประการที่สัมพันธ์กับ อัตราการเลิกใช้บริการ (Churn Rate) ที่สูง ในกลุ่มลูกค้า:
-    * ระยะเวลาการใช้บริการและประเภทสัญญา:
-พบว่าลูกค้าที่มีระยะเวลาที่ใช้บริการสั้นๆ และ มีประเภทสัญญาแบบรายเดือนนั้น มีอัตราการ Churn ที่สูงกว่าการใช้บริการที่ระยะยาว และ ประเภทสัญญาแบบรายปี
+   * ระยะเวลาการใช้บริการและประเภทสัญญา:
+      * ลูกค้าที่มี ระยะเวลาที่ใช้บริการสั้นๆ และ มีประเภทสัญญาแบบรายเดือนนั้นมีอัตราการเลิกใช้บริการที่ สูงกว่าการใช้บริการที่ระยะยาว และ ประเภทสัญญาแบบรายปี
 
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/2971766ce4764ddf2bfda496f038f5328d999437/tenure%20churn.png)
 
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/908ac5dd568e85eeb3e518104442876c85b37f50/contract%20Churn.png)
 
 ---
-
-และพบว่าลูกค้าที่ใช้บริการอินเตอร์เน็ตประเภท Fiber optic จะมีอัตราการ Churn ที่สูงกว่าการใช้บริการอินเตอร์เน็ตประเภทอื่นๆ
+* ประเภทบริการอินเทอร์เน็ต:
+  * ลูกค้าที่ใช้บริการอินเตอร์เน็ตประเภท Fiber optic จะอัตราการเลิกใช้บริการที่ สูงกว่าการใช้บริการอินเตอร์เน็ตประเภทอื่นๆ
 
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/d4cdf845b2d9243fac286bef1e365081f42f21f6/Internet%20service%20Churn.png)
 
 ---
-หากเป็นประเภทการชำระเงินแบบ Electronic check จะมีอัตราการ Churn ที่สูงกว่าการชำระเงินประเภทอื่นๆ
+* วิธีการชำระเงิน:
+  * ลูกค้าที่ใช้ประเภทการชำระเงินแบบ Electronic check จะอัตราการเลิกใช้บริการที่ สูงกว่าการชำระเงินประเภทอื่นๆ
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/bd553eac3fb885ecf4d69986b4f2fde8a649bba3/payment%20method%20Churn.png)
 
 ---
-
-และสุดท้ายยังพบว่าหากลูกค้าที่ไม่มีบริการดังต่อไปนี้ OnlineSecurity  OnlineBackup DeviceProtection TechSupport จะมีอัตราการ Churn ที่สูงกว่าการมีบริการดังกล่าว
+* บริการเสริม:
+  * ลูกค้าที่ไม่มีบริการดังต่อไปนี้ OnlineSecurity  OnlineBackup DeviceProtection TechSupport จะอัตราการเลิกใช้บริการที่ สูงกว่าการมีบริการดังกล่าว
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/76ed70e98fa7011dfb0103d7c292ea47b0a3c0db/online%20sec%20Churn.png)
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/3cf72d3641705412579d4cca193a8a9e7c633c3f/Online%20backup%20Churn.png)
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/54462b6ea059ffc6bcd992dcb0dc90013a5c9f97/Device%20protect%20Churn.png)
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/6e6c88c4e91dfae825bd4bf1abea1b2608fe3143/Tech%20support%20Churn.png)
 
 
-สรุป องค์กรควรเร่งศึกษาและทำความเข้าใจถึง **สาเหตุหลัก** ของปัญหาในบริการและคุณลักษณะของลูกค้าทั้งหมดที่ถูกกล่าวถึงข้างต้น เพื่อหาแนวทางในการลดอัตราการเลิกใช้บริการอย่างมีประสิทธิภาพ
-## Methodology (ขั้นตอนในการทำงาน)
+สรุป:  องค์กรควรเร่งศึกษาและทำความเข้าใจถึง **สาเหตุหลัก** ของปัญหาในบริการและคุณลักษณะของลูกค้าทั้งหมดที่ถูกกล่าวถึงข้างต้น เพื่อหาแนวทางในการลดอัตราการเลิกใช้บริการอย่างมีประสิทธิภาพ
 
 ### 1. Data Preprocessing
 การจัดการข้อมูลโดยการแปลงค่าของหัวข้อที่มีตัวเลือก 2 อย่างให้เป็นตัวเลข และ ใช้ One Hot Encoder แปลงค่าของหัวข้อที่มีตัวเลือกมากกว่า 2 อย่างให้เป็นตัวเลขทั้งหมด
