@@ -71,7 +71,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 
 และพบว่าลูกค้าที่ใช้บริการอินเตอร์เน็ตประเภท Fiber optic จะมีอัตราการ Churn ที่สูงกว่าการใช้บริการอินเตอร์เน็ตประเภทอื่นๆ
 
-![image_alt]()
+![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/d4cdf845b2d9243fac286bef1e365081f42f21f6/Internet%20service%20Churn.png)
 
 ## Methodology (ขั้นตอนในการทำงาน)
 
