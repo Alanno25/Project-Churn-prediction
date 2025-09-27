@@ -85,7 +85,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/76ed70e98fa7011dfb0103d7c292ea47b0a3c0db/online%20sec%20Churn.png)
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/3cf72d3641705412579d4cca193a8a9e7c633c3f/Online%20backup%20Churn.png)
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/54462b6ea059ffc6bcd992dcb0dc90013a5c9f97/Device%20protect%20Churn.png)
-![image_alt]()
+![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/6e6c88c4e91dfae825bd4bf1abea1b2608fe3143/Tech%20support%20Churn.png)
 
 ## Methodology (ขั้นตอนในการทำงาน)
 
