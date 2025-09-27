@@ -64,8 +64,9 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 ## Key Features & Insights(ทำอันนี้)
 พบว่าลูกค้าที่มีระยะเวลาที่ใช้บริการสั้นๆ และ มีประเภทสัญญาแบบรายเดือนนั้น มีอัตราการ Churn ที่สูงกว่าการใช้บริการที่ระยะยาว และ ประเภทสัญญาแบบรายปี 
 
+![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/2971766ce4764ddf2bfda496f038f5328d999437/tenure%20churn.png)
 
-รูปกราฟเปรียบเทียบ
+![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/2971766ce4764ddf2bfda496f038f5328d999437/tenure%20churn.png)
 
 ## Methodology (ขั้นตอนในการทำงาน)
 
@@ -76,7 +77,6 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 ### 2. Exploratory Data Analysis 
 การวิเคราะห์ข้อมูลเบื้องต้นโดยนำข้อมูลที่แปลงค่าแล้วมาแสดงในรูปแบบต่างๆเพื่อหาความสัมพันธ์ที่เกี่ยวข้องกับปัญหา
 รูป plot
-
 
 
 ### 3. Feature Engineering 
