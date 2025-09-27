@@ -66,7 +66,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/2971766ce4764ddf2bfda496f038f5328d999437/tenure%20churn.png)
 
-![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/2971766ce4764ddf2bfda496f038f5328d999437/tenure%20churn.png)
+![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/908ac5dd568e85eeb3e518104442876c85b37f50/contract%20Churn.png)
 
 ## Methodology (ขั้นตอนในการทำงาน)
 
