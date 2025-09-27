@@ -83,7 +83,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 
 **และสุดท้ายยังพบว่าหากลูกค้าที่ไม่มีบริการดังต่อไปนี้ OnlineSecurity  OnlineBackup DeviceProtection TechSupport จะมีอัตราการ Churn ที่สูงกว่าการมีบริการดังกล่าว**
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/76ed70e98fa7011dfb0103d7c292ea47b0a3c0db/online%20sec%20Churn.png)
-![image_alt]()
+![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/3cf72d3641705412579d4cca193a8a9e7c633c3f/Online%20backup%20Churn.png)
 ![image_alt]()
 ![image_alt]()
 
