@@ -61,7 +61,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 * TotalCharges ค่าบริการทั้งหมด
 * Churn การเลิกใช้บริการ
 
-## Key Features & Insights(ทำอันนี้)
+## Key Features & Insights
 
 **พบว่าลูกค้าที่มีระยะเวลาที่ใช้บริการสั้นๆ และ มีประเภทสัญญาแบบรายเดือนนั้น มีอัตราการ Churn ที่สูงกว่าการใช้บริการที่ระยะยาว และ ประเภทสัญญาแบบรายปี**
 
