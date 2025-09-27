@@ -75,7 +75,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/d4cdf845b2d9243fac286bef1e365081f42f21f6/Internet%20service%20Churn.png)
 
 หากเป็นประเภทการชำระเงินแบบ Electronic check จะมีอัตราการ Churn ที่สูงกว่าการชำระเงินประเภทอื่นๆ
-![image_alt]()
+![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/bd553eac3fb885ecf4d69986b4f2fde8a649bba3/payment%20method%20Churn.png)
 
 และสุดท้ายยังพบว่าหากลูกค้าที่ไม่มีบริการดังต่อไปนี้ OnlineSecurity  OnlineBackup DeviceProtection TechSupport จะมีอัตราการ Churn ที่สูงกว่าการมีบริการดังกล่าว
 ![image_alt]()
