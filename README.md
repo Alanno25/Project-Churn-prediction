@@ -87,6 +87,8 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/54462b6ea059ffc6bcd992dcb0dc90013a5c9f97/Device%20protect%20Churn.png)
 ![image_alt](https://github.com/Alanno25/Project-Churn-prediction/blob/6e6c88c4e91dfae825bd4bf1abea1b2608fe3143/Tech%20support%20Churn.png)
 
+
+**สรุป หากต้องการลดปัญหาอัตราการ Churn ควรศึกษาปัญหาของบริการทั้งหมดที่กล่าวถึงว่าเหตุใดทำให้บริการเหล่านี้มีอัตราการ Churn ที่สูง**
 ## Methodology (ขั้นตอนในการทำงาน)
 
 ### 1. Data Preprocessing
